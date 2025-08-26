@@ -1,6 +1,6 @@
-# 🧮 Calculator Test Assignment
+# 🧮 Counter Test Assignment
 
-Welcome to the **Calculator Test Assignment**! This project demonstrates a clean architecture with **TypeScript**, **Node.js**, and **React**, following **SOLID principles** and **OOP concepts**. It is designed to be **transport-agnostic**, supporting HTTP, WebSocket, and CLI interfaces seamlessly.  
+Welcome to the **Counter Test Assignment**! This project demonstrates a clean architecture with **TypeScript**, **Node.js**, and **React**, following **SOLID principles** and **OOP concepts**. It is designed to be **transport-agnostic**, supporting HTTP, WebSocket, and CLI interfaces seamlessly.  
 
 ---
 
