@@ -1,0 +1,47 @@
+.counter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  padding: 32px;
+  border-radius: 24px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  background: linear-gradient(135deg, #5c6ac4, #7b5fc0);
+  color: white;
+}
+
+.value {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.buttons {
+  display: flex;
+  gap: 16px;
+}
+
+.button {
+  padding: 12px 24px;
+  border-radius: 12px;
+  border: none;
+  color: white;
+  font-size: 1.25rem;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.button.inc {
+  background-color: #22c55e;
+}
+
+.button.inc:hover {
+  background-color: #16a34a;
+}
+
+.button.dec {
+  background-color: #ef4444;
+}
+
+.button.dec:hover {
+  background-color: #b91c1c;
+}

@@ -1,0 +1,1 @@
+export type TransportMode = "http" | "ws" | "cli";
